@@ -60,7 +60,7 @@
 ---
 
 <!-- Social Links -->
-<h3 align="center">🌐 Find Me Online</h3>
+<h3 align="center">Find Me Online</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shourya-singh-khatiyan/" target="_blank">
@@ -69,7 +69,7 @@
   <a href="mailto:shauryakhatiyan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D64141?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/git_shourya" target="_blank">
+  <a href="https://x.com/Shouryakhatiyan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/git-shourya" target="_blank">
@@ -77,10 +77,4 @@
   </a>
 </p>
 
----
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="animated snake graph" />
-</div>
 

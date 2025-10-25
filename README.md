@@ -1,5 +1,5 @@
-<h2 align="center">Hi, I'm [Your Name] — AI & ML Developer</h2>
-<h4 align="center">B.Tech in Computer Science | CGC Landran</h4>
+<h1 align="center">Hi, I'm Shourya — AI & ML Developer</h1>
+<h3 align="center">B.Tech in Computer Science | CGC Landran</h4>
 
 <p align="center">
   Passionate about building intelligent systems that combine deep learning, computer vision,
@@ -8,9 +8,14 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-shourya&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-shourya&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="Top languages graph" />
+<div>
+  <img align="right" height="300" src="https://res.cloudinary.com/df7kpj50z/image/upload/v1761426824/06f21a161921919.63cd7887d0a70_w4h1vp.gif"  />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=git-shourya&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub stats graph" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-shourya&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="Top languages graph" />
+  </div>
 </div>
 
 ---

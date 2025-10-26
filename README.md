@@ -1,11 +1,10 @@
-<!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=7DF9FF&center=true&width=600&lines=Hi%2C+I'm+Shourya+Singh+Khatiyan++" alt="Typing SVG" />
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DF9FF&center=true&width=1000&lines=AI+%26+ML+Developer;Building+Intelligent+Systems+with+Vision+and+Language" alt="Typing SVG" />
 </p>
 
-<!-- Gradient Title -->
+
 <h3 align="center">
   <a href="#" style="background: linear-gradient(to right, #00affa, #764ada, #7df9ff);
     -webkit-background-clip: text;
@@ -16,7 +15,6 @@
 
 ---
 
-<!-- Hero Section -->
 <div>
   <p align="center">
     Passionate about crafting cutting-edge AI solutions that merge <b>Deep Learning</b>,
@@ -27,32 +25,28 @@
 
 ---
 
-<!-- GitHub Stats -->
-<div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=git-shourya&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=git-shourya&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+    <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=git-shourya&layout=compact&theme=tokyonight&hide_border=false" height="170" />
   </div>
+ 
   <div>
-    <img align="right" height="200" src="https://res.cloudinary.com/df7kpj50z/image/upload/v1761426824/06f21a161921919.63cd7887d0a70_w4h1vp.gif" alt="AI animation" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-shourya&theme=tokyonight&hide_border=false" height="300" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-shourya&theme=tokyonight&hide_border=false" height="180" />
+    <img align="right" height="190"" src="https://res.cloudinary.com/df7kpj50z/image/upload/v1761426824/06f21a161921919.63cd7887d0a70_w4h1vp.gif" alt="AI animation" />
   </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-shourya&layout=compact&theme=tokyonight&hide_border=false" height="200" />
-  </div>
+
+---
+
+<div></div>
+  <h3 align="center">Tech Stack</h3>
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,tensorflow,pytorch,postgresql&theme=light" />
+  </p>
 </div>
 
 ---
 
-<!-- Animated Tech Stack -->
-<h3 align="center">Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,tensorflow,pytorch,postgresql&theme=light" />
-</p>
-
----
-
-<!-- Projects & Focus -->
 <h3 align="center">Current Focus</h3>
 
 <ul>

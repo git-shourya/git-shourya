@@ -31,10 +31,10 @@
 <div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=git-shourya&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="200" />
-    <img align="right" height="200" src="https://res.cloudinary.com/df7kpj50z/image/upload/v1761426824/06f21a161921919.63cd7887d0a70_w4h1vp.gif" alt="AI animation" />
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-shourya&theme=tokyonight&hide_border=false" height="200" />
+    <img align="right" height="200" src="https://res.cloudinary.com/df7kpj50z/image/upload/v1761426824/06f21a161921919.63cd7887d0a70_w4h1vp.gif" alt="AI animation" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-shourya&theme=tokyonight&hide_border=false" height="300" />
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-shourya&layout=compact&theme=tokyonight&hide_border=false" height="200" />

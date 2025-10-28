@@ -16,21 +16,21 @@
 ---
 
 <div>
-  <p align="center">
-    Passionate about crafting cutting-edge AI solutions that merge <b>Deep Learning</b>,
-    <b>Computer Vision</b>, and <b>Natural Language Processing</b> to create human-centered intelligence systems.<br><br>
-    I love developing intelligent applications, researching neural architectures, and designing interfaces that make AI more interactive and adaptive.
+  <img align="right" height="190" src="https://res.cloudinary.com/df7kpj50z/image/upload/v1761426824/06f21a161921919.63cd7887d0a70_w4h1vp.gif" alt="AI animation" />
+</div>
+
+<div>
+  <p align='left'>
+    <h4> Passionate about crafting cutting-edge AI solutions that merge <b>Deep Learning</b>,
+    <b>Computer Vision</b>, and <b>Natural Language Processing</b> to create human-centered intelligence systems.</h4>
+    <h4>I love developing intelligent applications, researching neural architectures, and designing interfaces that make AI more interactive and adaptive.</h4><br>
+    .--. .- ... ... .. --- -. .- - . / .- -... --- ..- - / -.-. .-. .- ..-. - .. -. --. / -.-. ..- - - .. -. --. -....- . -.. --. . / .- .. / ... --- .-.. ..- - .. --- -. ... / - .... .- - / -- . .-. --. . / -.. . . .--. / .-.. . .- .-. -. .. -. --. --..-- / -.-. --- -- .--. ..- - . .-. / ...- .. ... .. --- -. --..-- / .- -. -.. / -. .- - ..- .-. .- .-.. / .-.. .- -. --. ..- .- --. . / .--. .-. --- -.-. . ... ... .. -. --. / - --- / -.-. .-. . .- - . / .... ..- -- .- -. -....- -.-. . -. - . .-. . -.. / .. -. - . .-.. .-.. .. --. . -. -.-. . / ... -.-- ... - . -- ... .-.-.-<br><br>
+    .. / .-.. --- ...- . / -.. . ...- . .-.. --- .--. .. -. --. / .. -. - . .-.. .-.. .. --. . -. - / .- .--. .--. .-.. .. -.-. .- - .. --- -. ... --..-- / .-. . ... . .- .-. -.-. .... .. -. --. / -. . ..- .-. .- .-.. / .- .-. -.-. .... .. - . -.-. - ..- .-. . ... --..-- / .- -. -.. / -.. . ... .. --. -. .. -. --. / .. -. - . .-. ..-. .- -.-. . ... / - .... .- - / -- .- -.- . / .- .. / -- --- .-. . / .. -. - . .-. .- -.-. - .. ...- . / .- -. -.. / .- -.. .- .--. - .. ...- . .-.-.-
   </p>
 </div>
 
+---
 
-<div>
-   
-  <img align="center" height="190" src="https://res.cloudinary.com/df7kpj50z/image/upload/v1761426824/06f21a161921919.63cd7887d0a70_w4h1vp.gif" alt="AI animation" />
-</div>
-
-
-<div></div>
   <h3 align="center">Tech Stack</h3>
   
   <p align="center">

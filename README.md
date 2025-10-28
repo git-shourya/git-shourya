@@ -23,19 +23,12 @@
   </p>
 </div>
 
----
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=git-shourya&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-    <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=git-shourya&layout=compact&theme=tokyonight&hide_border=false" height="170" />
-  </div>
- 
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-shourya&theme=tokyonight&hide_border=false" height="180" />
-    <img align="right" height="190"" src="https://res.cloudinary.com/df7kpj50z/image/upload/v1761426824/06f21a161921919.63cd7887d0a70_w4h1vp.gif" alt="AI animation" />
-  </div>
+<div>
+   
+  <img align="center" height="190" src="https://res.cloudinary.com/df7kpj50z/image/upload/v1761426824/06f21a161921919.63cd7887d0a70_w4h1vp.gif" alt="AI animation" />
+</div>
 
----
 
 <div></div>
   <h3 align="center">Tech Stack</h3>
